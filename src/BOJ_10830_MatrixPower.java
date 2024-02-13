@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 10830번 - 행렬 제곱
 public class BOJ_10830_MatrixPower {
     static int n;
     private static int[][] multi(int[][] m1, int[][] m2){

@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+// 3085번 - 사탕 게임
 public class BOJ_3085_CandyGame {
     static int max = 1;
     static int n;

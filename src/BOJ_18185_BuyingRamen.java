@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 18185번 - 라면 사기 (small)
 public class BOJ_18185_BuyingRamen {
     static int[] factories;
     static int result;

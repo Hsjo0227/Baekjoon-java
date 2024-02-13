@@ -6,6 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+// 2933번 - 미네랄
 public class BOJ_2933_Mineral {
     static void throwStick(int n, int cnt) {
         // 홀수 회차일때 왼쪽 첫번째 미네랄을 삭제
